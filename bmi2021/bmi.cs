@@ -12,7 +12,7 @@ namespace BMICalculator
     {
         const double UnderWeightUpperLimit = 18.4;              // inclusive upper limit
         const double NormalWeightUpperLimit = 24.9;
-        const double OverWeightUpperLimit = 29.9;               // Obese from 30 +
+        const double OverWeightUpperLimit = 29.9;               // Obese from 30 ++
 
         // conversion factors from imperial to metric
         const double PoundsToKgs = 0.453592;
